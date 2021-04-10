@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Contact
+title: Contact Me
 permalink: /contact/
 ---
-
-# Contact me
 
 <form
   action="https://formspree.io/f/mwkakbzz"
